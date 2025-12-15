@@ -1,6 +1,6 @@
 # TECHNARCHY and LOVE
-![PXL_20251004_201315490](https://github.com/user-attachments/assets/95d19bc3-8ef1-4c51-81b8-628329dc825f)
 
+![PXL_20251004_201726349](https://github.com/user-attachments/assets/da042a11-87f4-42ab-b5a8-af92404db1aa)
 
 **TECHNARCHY and LOVE** is an ongoing artistic research project that began in **September 2025** during the residency **Beyond Gravity: Decolonizing the Digital** at **Theater im Depot, Dortmund (Germany)**. The project investigates techno not merely as a musical genre, but as a **migratory form of resistance**, a ritual technology, and a historically situated embodiment of social, political, and affective forces.
 
@@ -14,7 +14,7 @@ At Beyond Gravity and during the festival, I created an **intermediated syntheti
 
 Rather than reproducing these ideologies uncritically, the project **reversed the gaze**. Working from perspectives rooted in the **Global South**, we created songs in **English and German** that reflect the paradox of being embedded within a vortex of forces pushing democratic societies toward right-wing authoritarianism and techno-fascism—forces we were witnessing unfold in real time during the residency, alongside the rise of surveillance capitalism, companies such as Palantir, and the political realignments surrounding figures like J. D. Vance and the contemporary U.S. government.
 
-![PXL_20251004_201726349](https://github.com/user-attachments/assets/da042a11-87f4-42ab-b5a8-af92404db1aa)
+![PXL_20251004_201315490](https://github.com/user-attachments/assets/95d19bc3-8ef1-4c51-81b8-628329dc825f)
 
 ## Ritual, Catastrophe, and Cognitive Capitalism
 
@@ -52,3 +52,6 @@ These environments foreground techno’s current condition: no longer a naïve u
 At its core, **TECHNARCHY and LOVE** asks:
 
 > *What does techno become when artificial intelligence, surveillance capitalism, and planetary political crisis are no longer external conditions, but fully embedded within the beat itself?*
+>
+> <img width="1543" height="1151" alt="1" src="https://github.com/user-attachments/assets/87d5356f-e939-47fc-999b-8c2e90ab1dbe" />
+
