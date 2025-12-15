@@ -1,12 +1,20 @@
 # TECHNARCHY and LOVE
 
-
-![PXL_20251004_201726349](https://github.com/user-attachments/assets/26d43780-7b64-4fc3-9ac7-e999e525120d)
+<figure>
+  <img src="https://github.com/user-attachments/assets/26d43780-7b64-4fc3-9ac7-e999e525120d"
+       alt="TECHNARCHY and LOVE installation view"
+       style="max-width:100%; height:auto;" />
+</figure>
 
 **TECHNARCHY and LOVE** is an ongoing artistic research project that began in **September 2025** during the residency **Beyond Gravity: Decolonizing the Digital** at **Theater im Depot, Dortmund (Germany)**. The project investigates techno not merely as a musical genre, but as a **migratory form of resistance**, a ritual technology, and a historically situated embodiment of social, political, and affective forces.
 
 ## Techno as Embodied, Migratory Force
-![PXL_20251004_201315490](https://github.com/user-attachments/assets/17122489-4390-4cd8-b340-969e26fb672a)
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/17122489-4390-4cd8-b340-969e26fb672a"
+       alt="Embodied techno performance environment"
+       style="max-width:100%; height:auto;" />
+</figure>
 
 The first instantiation of the project explored techno as a deeply **embodied and spatial practice**—one that situates bodies fully within time, rhythm, vibration, and collective intensity. Drawing from the early electronic sound cultures emerging in the **1980s**, the work foregrounded techno’s capacity to generate energy, solidarity, and altered states of perception through repetition, beats, and electronic sound.
 
@@ -20,11 +28,11 @@ These works embodied the **multiplicity of ideologies currently coalescing under
 
 Rather than reproducing these ideologies uncritically, the project **reversed the gaze**. Working from perspectives rooted in the **Global South**, we created songs in **English and German** that articulate the paradox of being embedded within a vortex of forces pushing democratic societies toward right-wing authoritarianism and techno-fascism—forces unfolding in real time during the residency, alongside the rise of surveillance capitalism, companies such as Palantir, and new configurations of power within contemporary U.S. and European politics.
 
-[Video](https://www.youtube.com/watch?v=t-PcjBN-NdU)
-
-[Playlist of Music videos: Dark Enlightment](https://yutube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3&si=FL_hSgc8guQVi48Q)
-
-[Music Playlist](https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3)
+- **Video:** https://www.youtube.com/watch?v=t-PcjBN-NdU  
+- **Playlist (Music Videos – Dark Enlightenment):**  
+  https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3  
+- **Music Playlist:**  
+  https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3  
 
 ## Ritual, Catastrophe, and Cognitive Capitalism
 
@@ -53,8 +61,17 @@ Each node functions as a historical, political, and affective vector, mapping di
 
 ### Detroit (Prototype – Realized)
 
-<img width="1544" height="1151" alt="5" src="https://github.com/user-attachments/assets/42e8d008-c1f4-4961-9efd-ec15bf0de584" />
-<img width="1544" height="1151" alt="6" src="https://github.com/user-attachments/assets/892b6eb7-d1de-4fe4-abe9-35a5ee89a647" />
+<figure>
+  <img src="https://github.com/user-attachments/assets/42e8d008-c1f4-4961-9efd-ec15bf0de584"
+       alt="Detroit installation generative interface"
+       style="max-width:100%; height:auto;" />
+</figure>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/892b6eb7-d1de-4fe4-abe9-35a5ee89a647"
+       alt="Detroit installation audio-reactive visuals"
+       style="max-width:100%; height:auto;" />
+</figure>
 
 The **Detroit** installation has been fully realized and prototyped as a **generative, audio-reactive environment**. It functions as both an installation and a performative interface—an experimental DJ station where sound, image, and interaction co-evolve in real time.
 
