@@ -61,17 +61,17 @@ Each node functions as a historical, political, and affective vector, mapping di
 
 ### Detroit (Prototype – Realized)
 
-<figure>
+<div>
   <img src="https://github.com/user-attachments/assets/42e8d008-c1f4-4961-9efd-ec15bf0de584"
        alt="Detroit installation generative interface"
-       style="max-width:100%; height:auto;" />
-</figure>
+       width="100%" />
+</div>
 
-<figure>
+<div>
   <img src="https://github.com/user-attachments/assets/892b6eb7-d1de-4fe4-abe9-35a5ee89a647"
        alt="Detroit installation audio-reactive visuals"
-       style="max-width:100%; height:auto;" />
-</figure>
+       width="100%" />
+</div>
 
 The **Detroit** installation has been fully realized and prototyped as a **generative, audio-reactive environment**. It functions as both an installation and a performative interface—an experimental DJ station where sound, image, and interaction co-evolve in real time.
 
