@@ -20,6 +20,12 @@ These works embodied the **multiplicity of ideologies currently coalescing under
 
 Rather than reproducing these ideologies uncritically, the project **reversed the gaze**. Working from perspectives rooted in the **Global South**, we created songs in **English and German** that articulate the paradox of being embedded within a vortex of forces pushing democratic societies toward right-wing authoritarianism and techno-fascism—forces unfolding in real time during the residency, alongside the rise of surveillance capitalism, companies such as Palantir, and new configurations of power within contemporary U.S. and European politics.
 
+[Video](https://www.youtube.com/watch?v=t-PcjBN-NdU)
+
+[Playlist of Music videos: Dark Enlightment](https://yutube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3&si=FL_hSgc8guQVi48Q)
+
+[Music Playlist](https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3)
+
 ## Ritual, Catastrophe, and Cognitive Capitalism
 
 The resulting environment took the form of a **synthetic rave ritual**—simultaneously celebratory and catastrophic. Performers operated within **rule-based systems**, interacting with AI-driven visuals and sound. A DJ set activated audio-reactive environments composed of projected visuals, dynamic lighting, smoke, and artificial fog, transforming the space into a charged site of sensory immersion.
