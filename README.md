@@ -28,7 +28,8 @@ These works embodied the **multiplicity of ideologies currently coalescing under
 
 Rather than reproducing these ideologies uncritically, the project **reversed the gaze**. Working from perspectives rooted in the **Global South**, we created songs in **English and German** that articulate the paradox of being embedded within a vortex of forces pushing democratic societies toward right-wing authoritarianism and techno-fascism—forces unfolding in real time during the residency, alongside the rise of surveillance capitalism, companies such as Palantir, and new configurations of power within contemporary U.S. and European politics.
 
-- [**Video:**](https://www.youtube.com/watch?v=t-PcjBN-NdU) 
+- [**Video from Installation/Rave**](https://www.youtube.com/watch?v=t-PcjBN-NdU)
+  
 - [**Playlist (Music Videos – Dark Enlightenment):**](https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3 )
    
 - [**Music Playlist:**](https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3)
