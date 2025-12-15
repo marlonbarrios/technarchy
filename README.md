@@ -28,11 +28,10 @@ These works embodied the **multiplicity of ideologies currently coalescing under
 
 Rather than reproducing these ideologies uncritically, the project **reversed the gaze**. Working from perspectives rooted in the **Global South**, we created songs in **English and German** that articulate the paradox of being embedded within a vortex of forces pushing democratic societies toward right-wing authoritarianism and techno-fascism—forces unfolding in real time during the residency, alongside the rise of surveillance capitalism, companies such as Palantir, and new configurations of power within contemporary U.S. and European politics.
 
-- **Video:** https://www.youtube.com/watch?v=t-PcjBN-NdU  
-- **Playlist (Music Videos – Dark Enlightenment):**  
-  https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3  
-- **Music Playlist:**  
-  https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3  
+- [**Video:**]9https://www.youtube.com/watch?v=t-PcjBN-NdU) 
+- [**Playlist (Music Videos – Dark Enlightenment):**](https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3 )
+   
+- [**Music Playlist:**](https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3)
 
 ## Ritual, Catastrophe, and Cognitive Capitalism
 
@@ -75,11 +74,9 @@ Each node functions as a historical, political, and affective vector, mapping di
 
 The **Detroit** installation has been fully realized and prototyped as a **generative, audio-reactive environment**. It functions as both an installation and a performative interface—an experimental DJ station where sound, image, and interaction co-evolve in real time.
 
-- **Code (GitHub):**  
-  https://github.com/marlonbarrios/detroit  
+- [**Code (GitHub):**](https://github.com/marlonbarrios/detroit)
 
-- **Live App:**  
-  https://marlonbarrios.github.io/detroit/
+- [**Live App:**](https://marlonbarrios.github.io/detroit/)
 
 This installation foregrounds Detroit as a foundational site of techno’s invention, while resisting nostalgic or mythological narratives. Instead, it situates Detroit techno within broader questions of automation, Black futurism, industrial collapse, and speculative survival.
 
