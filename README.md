@@ -1,8 +1,12 @@
 # TECHNARCHY and LOVE
 
+
+![PXL_20251004_201726349](https://github.com/user-attachments/assets/26d43780-7b64-4fc3-9ac7-e999e525120d)
+
 **TECHNARCHY and LOVE** is an ongoing artistic research project that began in **September 2025** during the residency **Beyond Gravity: Decolonizing the Digital** at **Theater im Depot, Dortmund (Germany)**. The project investigates techno not merely as a musical genre, but as a **migratory form of resistance**, a ritual technology, and a historically situated embodiment of social, political, and affective forces.
 
 ## Techno as Embodied, Migratory Force
+![PXL_20251004_201315490](https://github.com/user-attachments/assets/17122489-4390-4cd8-b340-969e26fb672a)
 
 The first instantiation of the project explored techno as a deeply **embodied and spatial practice**—one that situates bodies fully within time, rhythm, vibration, and collective intensity. Drawing from the early electronic sound cultures emerging in the **1980s**, the work foregrounded techno’s capacity to generate energy, solidarity, and altered states of perception through repetition, beats, and electronic sound.
 
@@ -42,6 +46,9 @@ As part of **TECHNARCHY and LOVE**, I am developing an installation series conce
 Each node functions as a historical, political, and affective vector, mapping different conditions of techno’s emergence, migration, and transformation across geographies shaped by industrial decline, political rupture, colonial histories, and technological imaginaries.
 
 ### Detroit (Prototype – Realized)
+
+<img width="1544" height="1151" alt="5" src="https://github.com/user-attachments/assets/42e8d008-c1f4-4961-9efd-ec15bf0de584" />
+<img width="1544" height="1151" alt="6" src="https://github.com/user-attachments/assets/892b6eb7-d1de-4fe4-abe9-35a5ee89a647" />
 
 The **Detroit** installation has been fully realized and prototyped as a **generative, audio-reactive environment**. It functions as both an installation and a performative interface—an experimental DJ station where sound, image, and interaction co-evolve in real time.
 
